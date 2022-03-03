@@ -7,6 +7,8 @@ To provide this functionality, Ingress Operator deploys and manages an
 [HAProxy-based](https://www.haproxy.com) Kubernetes [ingress
 controller](https://kubernetes.io/docs/concepts/services-networking/ingress-controllers).
 
+Chad testing
+
 Ingress Operator implements the OpenShift [ingresscontroller API](https://github.com/openshift/api/blob/master/operator/v1/types_ingress.go).
 
 ## Installing
